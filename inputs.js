@@ -1,3 +1,3 @@
-function removeText(){
+function removeText() {
     document.getElementById("nya").remove();
 }
